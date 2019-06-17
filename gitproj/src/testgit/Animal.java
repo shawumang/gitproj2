@@ -6,6 +6,7 @@ public class Animal {
 		// TODO Auto-generated method stub
 		System.out.println("importing this class to git");
 		System.out.println("added line 2 in this animal class");
+		System.out.println("received the file");
 	}
 
 }
